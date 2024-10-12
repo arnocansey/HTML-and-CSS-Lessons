@@ -1,0 +1,33 @@
+.div1 {
+  border: solid;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.div2 {
+  border: solid;
+  padding: 30px;
+  border-color: red;
+}
+
+.div3 {
+  border: solid;
+  padding: 30px;
+  border-color: yellow;
+}
+
+.div4 {
+  border: solid;
+  padding: 30px;
+  border-color: green;
+}
+.div5 {
+  border: solid;
+  padding: 30px;
+  border-color: blue;
+}
+.div6 {
+  border: solid;
+  padding: 30px;
+  border-color: orange;
+}
